@@ -2,8 +2,8 @@
   "name": "blob",
   "version": "1.0.0",
   "description": "我的故事",
-  "repository": "https://github.com/twoballoons/blob.git",
-  "author": "twoballoons <xingenhi@163.com>",
+  "repository": "https://github.com/xingenhi/blob.git",
+  "author": "xingenhi <xingenhi@163.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev",

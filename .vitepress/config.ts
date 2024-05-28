@@ -15,8 +15,8 @@ export default {
             {text: '导航', link: '/links/common'},
             {text: '文档', link: '/docs/index'},
             {text: '知识库', link: 'https://ik.xingenhi.cn'},
-            {text: 'Gitee', link: 'https://github.com/twoballoons/blob.git'},
-            {text: 'Github', link: 'https://github.com/twoballoons/blob.git'},
+            {text: 'Github', link: 'https://github.com/xingenhi/blob.git'},
+            {text: 'Gitee', link: 'https://gitee.com/xingenhi/blob.git'},
         ],
         sidebar: {
             '/docs/': [

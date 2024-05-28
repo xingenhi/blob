@@ -14,7 +14,7 @@ hero:
       link: /links/common
     - theme: alt
       text: GitHub
-      link: https://github.com/twoballoons/blob.git
+      link: https://github.com/xingenhi/blob.git
 
 #features:
 #  - icon: 🛠️

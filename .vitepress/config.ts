@@ -4,12 +4,16 @@ export default {
     description: '我的故事.',
     ignoreDeadLinks: true,
     srcDir: './src',
-
+    lastUpdated: true,
     themeConfig: {
         // 主题级选项
         logo: 'logo.png',
         search: {
             provider: 'local'
+        },
+        editLink: {
+            pattern: 'https://github.com/xingenhi/blob/edit/main/src/:path',
+            text: '在 GitHub 上编辑此页面'
         },
         nav: [
             {text: '导航', link: '/links/common'},

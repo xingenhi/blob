@@ -1,7 +1,7 @@
 export default {
     base: '/',
-    title: '两只气球的故事',
-    description: '两只气球的故事.',
+    title: '我的故事',
+    description: '我的故事.',
     ignoreDeadLinks: true,
     srcDir: './src',
 

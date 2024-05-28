@@ -1,13 +1,11 @@
 ---
 title: Kubernetes
-date: 2023/6/28
 ---
 
 :::tip
 [学习文档](/10-运维/04-集成部署/06-Kubernetes.md)
 :::
 
-## Kubernetes详细教程
 
 ### 1. Kubernetes介绍
 

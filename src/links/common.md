@@ -7,6 +7,7 @@ title: 常用
 [Jetbrains](https://www.jetbrains.com/zh-cn/) <br>
 [Gitee](https://gitee.com) <br>
 [GitHub](https://github.com) <br>
+[云效](https://devops.aliyun.com/workbench) <br>
 
 ## ChatGPT
 [Genius-AI](https://chat.apeto.cn) 自己一直在用的一个免费的`gpt` <br>

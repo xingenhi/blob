@@ -1,5 +1,5 @@
 export default {
-    // 站点级选项
+    base: '/blog/',
     title: '两只气球的故事',
     description: '两只气球的故事.',
     ignoreDeadLinks: true,

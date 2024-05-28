@@ -6,7 +6,7 @@ hero:
   text: 苦逼程序员的修炼历程
   tagline: 本站大部分内容都是自己工作和学习的过程中不断摸索、搜罗得来的，经过了很长时间的整理与沉淀，在这里列出来分享给大家。
   image:
-    src: /public/logo.png
+    src: logo.png
     alt: VitePress
   actions:
     - theme: brand

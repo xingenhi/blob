@@ -7,7 +7,7 @@ export default {
 
     themeConfig: {
         // 主题级选项
-        logo: '/public/logo.png',
+        logo: 'logo.png',
         search: {
             provider: 'local'
         },

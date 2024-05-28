@@ -75,6 +75,18 @@ date: 2023/7/4
 
 [官网](https://www.mapstruct.plus/)
 
+### Easy ES
+
+> 🚀傻瓜级ElasticSearch搜索引擎ORM框架
+
+[官网](https://www.easy-es.cn/)
+
+### Mongo Plus
+
+> 🔥🔥🔥使用MyBatisPlus的方式，优雅的操作MongoDB
+
+[官网](https://www.mongoplus.cn/)
+
 ## 权限认证
 
 ### Spring Security

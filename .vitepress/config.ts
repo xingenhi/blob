@@ -7,7 +7,7 @@ export default {
 
     themeConfig: {
         // 主题级选项
-        logo: 'logo.png',
+        logo: '/public//logo.png',
         search: {
             provider: 'local'
         },
@@ -211,6 +211,8 @@ export default {
                 {text: '大数据', link: '/links/bigdata'},
                 {text: '物联网', link: '/links/iot'},
                 {text: 'GoLang', link: '/links/go'},
+                {text: '运维', link: '/links/operation'},
+                {text: '流媒体服务器', link: '/links/stream'},
                 {text: '常用社区', link: '/links/community'},
                 {text: '环境', link: '/links/env'},
                 {text: '仓库', link: '/links/hub'},

@@ -1,5 +1,5 @@
 export default {
-    base: '/',
+    base: '/blog/',
     title: '两只气球的故事',
     description: '两只气球的故事.',
     ignoreDeadLinks: true,
@@ -7,7 +7,7 @@ export default {
 
     themeConfig: {
         // 主题级选项
-        logo: '/assets/logo.png',
+        logo: '/public/logo.png',
         search: {
             provider: 'local'
         },

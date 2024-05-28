@@ -121,6 +121,4 @@ date: 2023/6/29
 [GoView](https://www.mtruning.club/#/) 是一个高效的拖拽式低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可制作数据大屏，减少心智负担。当然低代码也不是 “银弹”，希望所有人员都能理智看待此技术。<br>
 [Variant Form](https://vform666.com/) `支持Vue2和Vue3` 一款高效的低代码表单。可视化拖拽式设计，支持组件库二开，一键生成源码，享受更多摸鱼时光...<br>
 [PagePlug](https://gitee.com/cloudtogo/pageplug) PagePlug 是 Appsmith 的中国化项目，是一个开源的、声明式的、可视化的前端低代码框架，可以用来制作 web 应用、微信小程序。 <br>
-[LogicFlow](https://site.logic-flow.cn/) 低成本实现，让逻辑管理更简单、更高效 <br>
 [codemirror-editor-vue3](https://rennzhang.github.io/codemirror-editor-vue3/zh-CN/guide/getting-started) Codemirror 的 vue3 组件。 基于 Codemirror 5开发，仅支持 vue3. <br>
-[Apache ECharts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库 <br>

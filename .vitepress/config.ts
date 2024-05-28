@@ -3,10 +3,11 @@ export default {
     title: '两只气球的故事',
     description: '两只气球的故事.',
     ignoreDeadLinks: true,
+    srcDir: './src',
 
     themeConfig: {
         // 主题级选项
-        logo: '/public/logo.png',
+        logo: '/assets/logo.png',
         search: {
             provider: 'local'
         },

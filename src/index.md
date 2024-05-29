@@ -35,7 +35,7 @@ hero:
 >
 > ------
 >
-> 如果本文涉及到**侵权**等行为，请及时私信联系我:kissing_heart:
+> 如果本文涉及到**侵权**等行为，请及时私信联系我:kissing_heart: 邮箱：xingenhi@163.com
 >
 > 下面给大家推荐一些非常:cow2::beer:的UP主，本文大部分内容均取自以下几位大佬的资源:point_down::point_down::point_down:
 >

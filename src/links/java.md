@@ -1,6 +1,5 @@
 ---
 title: Java
-date: 2023/7/4
 ---
 
 ## Java基础
@@ -30,6 +29,7 @@ date: 2023/7/4
 [Mybatis Plus](https://baomidou.com/) MyBatis-Plus（简称 MP）是一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。<br>
 [Easy Es](https://www.easy-es.cn/) 是一款基于ElasticSearch(简称Es)官方提供的RestHighLevelClient打造的ORM开发框架，在 RestHighLevelClient 的基础上,只做增强不做改变，为简化开发、提高效率而生,您如果有用过Mybatis-Plus(简称MP),那么您基本可以零学习成本直接上手EE,EE是MP的Es平替版,在有些方面甚至比MP更简单,同时也融入了更多Es独有的功能,助力您快速实现各种场景的开发.<br> 
 [MyBatis-Flex](https://mybatis-flex.com/) 一个优雅的 MyBatis 增强框架。更轻量、更灵活、以及更高的性能。<br>
+[Mongo Plus](https://www.mongoplus.cn/) 🔥🔥🔥使用MyBatisPlus的方式，优雅的操作MongoDB。 <br>
 
 ## 工具库
 
@@ -74,18 +74,6 @@ date: 2023/7/4
 > 可能是最简单最强大的Java Bean转换工具
 
 [官网](https://www.mapstruct.plus/)
-
-### Easy ES
-
-> 🚀傻瓜级ElasticSearch搜索引擎ORM框架
-
-[官网](https://www.easy-es.cn/)
-
-### Mongo Plus
-
-> 🔥🔥🔥使用MyBatisPlus的方式，优雅的操作MongoDB
-
-[官网](https://www.mongoplus.cn/)
 
 ## 权限认证
 

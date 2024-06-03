@@ -43,10 +43,6 @@ date: 2023/6/29
 ### 支付宝JSAPI
 [官网](https://opendocs.alipay.com/open/025a4p)<br>
 
-## 工具
-[Web Pack Js](https://www.webpackjs.com/concepts/) 是一个用于现代 JavaScript 应用程序的 静态模块打包工具.<br>
-[Vite](https://cn.vitejs.dev/) 下一代的前端工具链，为开发提供极速响应<br>
-
 ## Web端组件库
 
 ### 基于Html+Js+Jquery
@@ -109,16 +105,22 @@ date: 2023/6/29
 :::
 
 ## 工具
+
+## 打包工具
+[Web Pack Js](https://www.webpackjs.com/concepts/) 是一个用于现代 JavaScript 应用程序的 静态模块打包工具.<br>
+[Vite](https://cn.vitejs.dev/) 下一代的前端工具链，为开发提供极速响应<br>
+
 ### 图标库
 [iconfont](https://www.iconfont.cn/) 阿里巴巴矢量图标库<br>
 [IconPark](https://iconpark.oceanengine.com/home) 是技术驱动图标样式的开源图标库<br>
 
 ### 代码编辑器
 [Bin Ace Editor](https://wangbin3162.gitee.io/bin-ace-editor) 一款基于Vue的代码编辑器<br>
+[CodeMirror5](https://codemirror.net/5/) CodeMirror 是一个多功能的文本编辑器 在浏览器的 JavaScript 中实现。它专门用于 编辑代码，并带有许多语言模式和插件，可实现更高级的编辑功能。<br>
+[codemirror-editor-vue3](https://rennzhang.github.io/codemirror-editor-vue3/zh-CN/guide/getting-started) Codemirror 的 vue3 组件。 基于 Codemirror 5开发，仅支持 vue3. <br>
 
-### 其他
+### 低代码平台
 [低代码引擎](https://lowcode-engine.cn/index) 基于 Low-Code Engine 快速打造高生产力的低代码研发平台<br>
 [GoView](https://www.mtruning.club/#/) 是一个高效的拖拽式低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可制作数据大屏，减少心智负担。当然低代码也不是 “银弹”，希望所有人员都能理智看待此技术。<br>
 [Variant Form](https://vform666.com/) `支持Vue2和Vue3` 一款高效的低代码表单。可视化拖拽式设计，支持组件库二开，一键生成源码，享受更多摸鱼时光...<br>
 [PagePlug](https://gitee.com/cloudtogo/pageplug) PagePlug 是 Appsmith 的中国化项目，是一个开源的、声明式的、可视化的前端低代码框架，可以用来制作 web 应用、微信小程序。 <br>
-[codemirror-editor-vue3](https://rennzhang.github.io/codemirror-editor-vue3/zh-CN/guide/getting-started) Codemirror 的 vue3 组件。 基于 Codemirror 5开发，仅支持 vue3. <br>

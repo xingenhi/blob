@@ -7,7 +7,7 @@ date: 2023/7/5
 
 ### Spring Cloud Netflix
 
-> 为开发者提供了在分布式系统（配置管理，服务发现，熔断，路由，微代理，控制总线，一次性 Token，全居琐，Leader 选举，分布式 Session，集群状态）中快速构建的工具，使用 Spring Cloud 的开发者可以快速的启动服务或构建应用、同时能够快速和云平台资源进行对接。<br>
+> 为开发者提供了在分布式系统（配置管理，服务发现，熔断，路由，微代理，控制总线，一次性 Token，全局锁，Leader 选举，分布式 Session，集群状态）中快速构建的工具，使用 Spring Cloud 的开发者可以快速的启动服务或构建应用、同时能够快速和云平台资源进行对接。<br>
 > [SpringCloud中文手册](https://www.springcloud.cc/spring-cloud-greenwich.html)<br>
 > [个人文档](http://xingenhi.gitee.io/blog/docs/micro_service/SpringCloudNetflix/SpringCloudNetflix.html)<br>
 

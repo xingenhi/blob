@@ -27,3 +27,6 @@ date: 2023/6/29
     * [Ant Design Vue](https://www.antdv.com/docs/vue/introduce-cn/)
     * [Vant 3](https://youzan.github.io/vant/#/zh-CN/)
     * [AntV](https://antv.vision/zh)
+* 其他UI
+  * [Univer](https://univer.ai/zh-CN) 开源Office 办公套件<br>
+  * [vue-plugin-hiprint](https://gitee.com/CcSimple/vue-plugin-hiprint) 打印插件

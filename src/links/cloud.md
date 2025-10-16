@@ -61,12 +61,12 @@ date: 2023/7/5
 
 ::: info ActiveMQ
 Apache ActiveMQ是Apache软件基金会所研发的开放源代码消息中间件；由于ActiveMQ是一个纯Java程序，因此只需要操作系统支持Java虚拟机，ActiveMQ便可执行。<br>
-[个人文档](https://xingenhi.gitee.io/blog/docs/distributed_middleware/ActiveMQ.html)
+[个人文档](https://blob.xingenhi.cn/docs/distributed_middleware/ActiveMQ.html)
 :::
 
 ::: info RabbitMQ
 RabbitMQ是实现了高级消息队列协议（AMQP）的开源消息代理软件（亦称面向消息的中间件）。RabbitMQ服务器是用Erlang语言编写的，而集群和故障转移是构建在开放电信平台框架上的。所有主要的编程语言均有与代理接口通讯的客户端库。<br>
-[个人文档](https://xingenhi.gitee.io/blog/docs/distributed_middleware/RabbitMq.html)
+[个人文档](https://blob.xingenhi.cn/docs/distributed_middleware/RabbitMq.html)
 :::
 
 ::: info RocketMQ
@@ -77,14 +77,14 @@ RabbitMQ是实现了高级消息队列协议（AMQP）的开源消息代理软�
 ::: info Kafka
 Kafka 是一个分布式的基于发布/订阅模式的消息队列（Message Queue），主要应用于大数据实时处理领域。<br>
 [官网](https://kafka.apache.org/)
-[个人文档](https://xingenhi.gitee.io/blog/docs/big_data/Kafka.html)
+[个人文档](https://blob.xingenhi.cn/docs/big_data/Kafka.html)
 :::
 
 ### 分布式文件存储
 
 ::: info FastDFS
 FastDFS是一个开源的轻量级分布式文件系统，它对文件进行管理，功能包括：文件存储、文件同步、文件访问（文件上传、文件下载）等，解决了大容量存储和负载均衡的问题。<br>
-[个人文档](https://xingenhi.gitee.io/blog/docs/distributed_middleware/FastDFS.html)
+[个人文档](https://blob.xingenhi.cn/docs/distributed_middleware/FastDFS.html)
 :::
 
 ::: info Minio

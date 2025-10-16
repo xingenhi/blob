@@ -260,6 +260,7 @@ function sidebarLinks(): DefaultTheme.SidebarItem[] {
         {text: 'GoLang', link: '/links/go'},
         {text: '运维', link: '/links/operation'},
         {text: '流媒体服务器', link: '/links/stream'},
+        {text: 'Gis', link: '/links/gis'},
         {text: '常用社区', link: '/links/community'},
         {text: '环境', link: '/links/env'},
         {text: '仓库', link: '/links/hub'},

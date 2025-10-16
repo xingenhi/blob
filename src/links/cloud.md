@@ -94,3 +94,8 @@ MinIO原生支持 Kubernetes，它可用于每个独立的公共云、每个 Kub
 MinIO是软件定义的，不需要购买其他任何硬件，在 GNU AGPL v3 下是 100% 开源的。<br>
 [官网](https://www.minio.org.cn/)
 :::
+
+::: info RustFS
+RustFS 用热门安全的 Rust 语言开发，兼容 S3 协议。适用于 AI/ML 及海量数据存储、大数据、互联网、工业和保密存储等全部场景。近乎免费使用。遵循 Apache 2 协议，支持国产保密设备和系统。
+[官网](https://rustfs.com/zh/)
+:::

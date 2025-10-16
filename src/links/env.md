@@ -17,6 +17,7 @@ date: 2023/7/5
 ## node.js
 [下载](https://nodejs.org/en)<br>
 [安装教程](http://blob.xingenhi.cn/docs/operations/linux/Node.js.html)<br>
+[nvm（动态切换node版本）](https://nvm.uihtm.com/)<br>
 
 ## maven
 [手册](https://books.sonatype.com/mvnref-book/reference/index.html)<br>

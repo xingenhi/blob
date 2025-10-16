@@ -40,7 +40,7 @@ date: 2023/7/5
 
 > Redis（Remote Dictionary Server )，即远程字典服务，是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API。
 
-[个人文档](http://xingenhi.gitee.io/blog/docs/db/Redis.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/db/Redis.html)<br>
 [中文手册](https://redis.com.cn/tutorial.html)<br>
 [菜鸟教程](https://www.runoob.com/redis/redis-tutorial.html)<br>
 [W3C school文档](https://www.w3cschool.cn/redis/)<br>
@@ -51,7 +51,7 @@ date: 2023/7/5
 
 > MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。
 
-[个人文档](http://xingenhi.gitee.io/blog/docs/db/MongoDB.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/db/MongoDB.html)<br>
 [中文手册](https://www.mongodb.org.cn/tutorial/)<br>
 [菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)<br>
 [W3C school文档](https://www.w3cschool.cn/mongodb/)<br>
@@ -60,7 +60,7 @@ date: 2023/7/5
 
 > ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，是Google的Chubby一个开源的实现，是Hadoop和Hbase的重要组件。它是一个为分布式应用提供一致性服务的软件，提供的功能包括：配置维护、域名服务、分布式同步、组服务等。
 
-[个人文档](http://xingenhi.gitee.io/blog/docs/db/Zookeeper.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/db/Zookeeper.html)<br>
 [W3C school文档](https://www.w3cschool.cn/zookeeper/)<br>
 [菜鸟教程](https://www.runoob.com/w3cnote/zookeeper-tutorial.html) 引用的W3C school的文档<br>
 
@@ -80,7 +80,7 @@ date: 2023/7/5
 
 > InfluxDB是一个用Go语言编写的时间序列数据库，旨在处理高写入和查询负载。它是TICK堆栈的组成部分 。InfluxDB旨在用作涉及大量带时间戳数据的任何用例的后备存储，包括DevOps监控，应用程序指标，物联网传感器数据和实时分析。同时influxdb也是一个开源分布式时序、事件和指标数据库，无需外部依赖。类似的数据库有kdb、Graphite、es等。
 
-[个人文档](http://xingenhi.gitee.io/blog/docs/db/InfluxDB.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/db/InfluxDB.html)<br>
 [官网](https://www.influxdata.com/)<br>
 
 ## Apache IoTDB

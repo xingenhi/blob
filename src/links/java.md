@@ -12,11 +12,11 @@ title: Java
 [Spring中文手册](http://shouce.jb51.net/spring/)<br>
 
 ### SpringMvc
-[个人文档](http://xingenhi.gitee.io/blog/docs/java_base/framework/SpringMVC.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/java_base/framework/SpringMVC.html)<br>
 
 ### SpringBoot
 [SpringBoot中文手册](http://felord.cn/_doc/_springboot/2.1.5.RELEASE/_book/pages/boot-documentation.html#boot-documentation)<br>
-[个人文档](http://xingenhi.gitee.io/blog/docs/java_base/framework/SpringBoot.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/java_base/framework/SpringBoot.html)<br>
 
 ### Solon
 

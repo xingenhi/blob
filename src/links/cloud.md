@@ -9,7 +9,7 @@ date: 2023/7/5
 
 > 为开发者提供了在分布式系统（配置管理，服务发现，熔断，路由，微代理，控制总线，一次性 Token，全局锁，Leader 选举，分布式 Session，集群状态）中快速构建的工具，使用 Spring Cloud 的开发者可以快速的启动服务或构建应用、同时能够快速和云平台资源进行对接。<br>
 > [SpringCloud中文手册](https://www.springcloud.cc/spring-cloud-greenwich.html)<br>
-> [个人文档](http://xingenhi.gitee.io/blog/docs/micro_service/SpringCloudNetflix/SpringCloudNetflix.html)<br>
+> [个人文档](http://blob.xingenhi.cn/docs/micro_service/SpringCloudNetflix/SpringCloudNetflix.html)<br>
 
 #### 组件
 `Eureka` 注册中心，服务注册、发现等<br>
@@ -21,7 +21,7 @@ date: 2023/7/5
 ### Spring Cloud Alibaba
 
 > 它是由一些阿里巴巴的开源组件和云产品组成的。这个项目的目的是为了让大家所熟知的 Spring 框架，其优秀的设计模式和抽象理念，以给使用阿里巴巴产品的 Java 开发者带来使用 Spring Boot 和 Spring Cloud 的更多便利。<br>
-> [个人文档](http://xingenhi.gitee.io/blog/docs/micro_service/SpringCloudAlibaba/SpringCloudAlibaba.html)<br>
+> [个人文档](http://blob.xingenhi.cn/docs/micro_service/SpringCloudAlibaba/SpringCloudAlibaba.html)<br>
 > [官网](https://spring.io/projects/spring-cloud-alibaba/)<br>
 
 #### 组件
@@ -37,7 +37,7 @@ date: 2023/7/5
 
 > 是一款高性能、轻量级的开源 Java RPC 分布式服务框架，它提供了三大核心能力：面向接口的远程方法调用，智能容错和负载均衡，以及服务自动注册和发现。她最大的特点是按照分层的方式来架构，使用这种方式可以使各个层之间解耦合（或者最大限度地松耦合）。从服务模型的角度来看，Dubbo 采用的是一种非常简单的模型，要么是提供方提供服务，要么是消费方消费服务，所以基于这一点可以抽象出服务提供方（Provider）和服务消费方（Consumer）两个角色。
 
-[个人文档](http://xingenhi.gitee.io/blog/docs/micro_service/ApacheDubboZookeeper/gaoxingnenJavaRPCkuangjiaDubbo.html)<br>
+[个人文档](http://blob.xingenhi.cn/docs/micro_service/ApacheDubboZookeeper/gaoxingnenJavaRPCkuangjiaDubbo.html)<br>
 [Dubbo官网](https://cn.dubbo.apache.org/zh-cn/)<br>
 [Dubbo GitHub](https://github.com/apache/incubator-dubbo)<br>
 
